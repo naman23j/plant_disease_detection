@@ -1,0 +1,18 @@
+{
+  "name": "plant-disease-detection",
+  "version": "1.0.0",
+  "description": "AI-powered Plant Disease Detection System",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "server": "cd backend && python app.py",
+    "install-all": "npm install && cd frontend && npm install",
+    "dev": "concurrently \"npm run server\" \"npm run start\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+} 
