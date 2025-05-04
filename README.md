@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-Powered Plant Disease Detection System
 
 A comprehensive system for detecting and classifying plant diseases using deep learning. The system supports both image upload and real-time camera input, providing detailed information about detected diseases, their symptoms, and treatment recommendations.
@@ -101,5 +101,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - TensorFlow team for the deep learning framework
 - React and Material-UI communities for the frontend components 
 =======
-# plant_disease_detection
->>>>>>> origin/main
+
